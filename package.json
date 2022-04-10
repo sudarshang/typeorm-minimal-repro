@@ -1,0 +1,22 @@
+{
+  "name": "typeorm-minimal-repro",
+  "version": "0.0.1",
+  "description": "Minimal project to reproduce errors so that issues can be filed on typeorm",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sudarshang/typeorm-minimal-repro.git"
+  },
+  "author": "Sudarshan Gaikaiwari",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sudarshang/typeorm-minimal-repro/issues"
+  },
+  "homepage": "https://github.com/sudarshang/typeorm-minimal-repro#readme",
+  "dependencies": {
+    "typeorm": "0.3.5"
+  }
+}
